@@ -1,0 +1,11 @@
+<html>
+<head>
+<title> try to put image in a code </title>
+</head>
+<body>
+<H1> wanna add an image <br> lets try whats happens </h1>
+<p> i will select any image from the lappy </p>
+<p> dont know whether it works or not </P>
+<img src= "desktop" width="500" height="300">
+</body>
+</html>
